@@ -4,24 +4,6 @@
 
 
 
-# min = baga
-# max = ih
-# sum()/len() = dunsaj
-# sum = bvh toonii niilber
-# len = tsiipriin shirheg
-# a.remove() = songoson tsipriig ustgana
-# a.pop = indexeern ustgana 
-# a.sort = bagaas ihrvv daraalluulna
-# a.sort(reverse = true) = esergeern
-# a.append = tsiper nemne
-
-# a =(1, 2, 3, 4)
-# print(sum(a))
-
-
-######################################################
-
-
 # a = [6,4,3,5,1,2]
 # a.sort(reverse = True)
 # print(a)
